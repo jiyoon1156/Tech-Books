@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '내가 읽은 기술서적 모음집',
   tagline: 'What I have read',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://tech-books-forhjy.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
